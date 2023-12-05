@@ -549,10 +549,10 @@ MonoBehaviour:
   m_Name: FMODStudioSettings
   m_EditorClassIdentifier: 
   switchSettingsMigration: 1
-  HasSourceProject: 0
-  HasPlatforms: 0
-  sourceProjectPath: ../../Fmod Stuff/GermBlaster 2024 Try2/GB 24 2/GB 24 2.fspro
-  sourceBankPath: Fmod Banks /Desktop
+  HasSourceProject: 1
+  HasPlatforms: 1
+  sourceProjectPath: GB 24 2/GB 24 2-Student.fspro
+  sourceBankPath: GB 24 2/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 1
   ShowBankRefreshWindow: 1
